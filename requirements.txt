@@ -1,0 +1,13 @@
+
+langchain-google-genai
+langchain-community
+chromadb
+pypdf
+google-search-results
+jupyter
+ipykernel
+streamlit
+arxiv
+requests
+beautifulsoup4
+nest-asyncio
