@@ -11,7 +11,7 @@ A simple tool that finds research papers on any topic, processes them, and lets 
 3. **💬 Ask Questions**: Chat with the paper content using AI
 4. **📋 Get Summary**: Generate comprehensive paper analysis
 
-![Demo](https://mhjsleappy5zmnrnevdap3w.streamlit.app/)
+![Demo]https://mhjsleappy5zmnrnevdap3w.streamlit.app/
 
 ## � Quick Start
 
